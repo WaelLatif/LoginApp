@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="no_of_attempets_remaining_5">No Of Attempets Remaining :5</string>
+</resources>
